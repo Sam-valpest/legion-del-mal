@@ -7,3 +7,7 @@
 2. **Reunir los recursos necesarios:** Obtener materiales o tecnología requerida para llevar a cabo el plan.
 
 3. **Ejecutar la operación:** Aplicar el método de congelación en la zona designada.
+
+# Objetivo
+
+El objetivo de este plan es congelar la ciudad de Metrópolis para neutralizar a los héroes y controlar la zona.
