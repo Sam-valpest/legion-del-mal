@@ -12,6 +12,7 @@
 
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
 > — Lex Luthor, fundador
+> - Alianza de supervillanos de DC y Marvel, unida para dominar el mundo y derrotar a los héroes.
 
 ## ¿Quiénes somos?
 
