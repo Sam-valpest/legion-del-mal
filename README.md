@@ -6,7 +6,7 @@
 ![Release](https://img.shields.io/github/v/release/Sam-valpest/legion-del-mal)
 ![Issues](https://img.shields.io/github/issues/Sam-valpest/legion-del-mal)
 ![Último commit](https://img.shields.io/github/last-commit/Sam-valpest/legion-del-mal)
-![Licencia](https://img.shields.io/github/license/Sam-valpest/legion-del-mal&cacheSeconds=60)
+![Licencia](https://img.shields.io/github/license/Sam-valpest/legion-del-mal?cacheSeconds=60)
 
 # 🦹‍♂️ La Legión del Mal
 
